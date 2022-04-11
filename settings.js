@@ -18,27 +18,27 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.premium = ['6281575886399']
-global.ownernomer = '6281575886399'
-global.ownername = 'RiychDwayne'
-global.botname = 'Chika-Md'
-global.footer = 'RiychDwayne'
-global.ig = 'https://instagram.com/riychdwayne'
-global.email = 'riychh.20@gmail.com'
+global.owner = ['62882007331744','6288233481992','62882007331744']
+global.premium = ['62882007331744']
+global.ownernomer = '62882007331744'
+global.ownername = 'Rafi Aji'
+global.botname = 'Vincent-Md'
+global.footer = 'Vincent'
+global.ig = 'Gk Punya Banh'
+global.email = 'Ajinugraharafi.20@gmail.com'
 global.region = 'Indonesia'
-global.sc = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.myweb = 'https://api-riychdwayne.herokuap.com'
-global.packname = 'Chika-Md'
-global.author = 'WhatsApp Bot'
+global.sc = 'Mau ngapain banh'
+global.myweb = 'https://api-Rafiajiya.herokuap.com'
+global.packname = 'Vincent-Md'
+global.author = 'Rafi Bot'
 global.sessionName = 'chika'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: '✓ Success',
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
+    admin: 'Fitur Khusus Admin Group Goblok',
+    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu Bg!',
+    owner: 'Lu Bukan Owner Astaga',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
@@ -47,7 +47,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 10
 }
 global.thumb = fs.readFileSync('./image/chika.jpg')
 
