@@ -18,11 +18,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281575886399','6281575886399','6281575886399']
+global.owner = ['62882007331744','6281575886399','6281575886399']
 global.premium = ['6281575886399']
-global.ownernomer = '6281575886399'
-global.ownername = 'RiychDwayne'
-global.botname = 'Chika-Md'
+global.ownernomer = '6288233481992'
+global.ownername = 'Rafi aji'
+global.botname = 'Vincent-Md'
 global.footer = 'RiychDwayne'
 global.ig = 'https://instagram.com/riychdwayne'
 global.email = 'riychh.20@gmail.com'
